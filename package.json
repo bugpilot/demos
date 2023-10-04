@@ -1,0 +1,15 @@
+{
+  "name": "custom-bug-reporting-flow",
+  "version": "1.0.0",
+  "author": "Denys Kublytskyi <deniskublitskiy@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint . --fix"
+  },
+  "devDependencies": {
+    "eslint": "^8.50.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-prettier": "^5.0.0",
+    "prettier": "^3.0.3"
+  }
+}
